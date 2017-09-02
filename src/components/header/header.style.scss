@@ -1,0 +1,17 @@
+@import '../../assets/stylesheets/style.scss';
+
+.header{
+  background: #000;
+  border-bottom: 1px solid #1e2124;
+  &__logo{
+    width: 130px;
+  }
+  .navbar-nav {
+    .nav-link{
+      color: $yellow1;
+    }
+    .nav-link-lang{
+      color: $whiteF5;
+    }
+  }
+}
