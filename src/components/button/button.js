@@ -7,7 +7,6 @@ export default ({children}) => {
   return (
     <div className="button-VMA">
       <a href="#">
-        {children}
       </a>
     </div>
   );
